@@ -17,6 +17,7 @@
 > git config --global init.defaultBranch main
 - Connect to repo on Github
 > git remote add origin <ssh_link>
+
 > git add .
 > git commit -m"init files"
 > git push origin main
