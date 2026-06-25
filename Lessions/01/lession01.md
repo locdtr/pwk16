@@ -19,7 +19,11 @@
 > git remote add origin <ssh_link>
 
 > git add .
+
+
 > git commit -m"init files"
+
+
 > git push origin main
 
 #C. Connect SSH and add to Github
